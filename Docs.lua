@@ -5,6 +5,7 @@ local window = Library.new("Window") -- Args(<string> Name, <boolean?> Constrain
 window:LockScreenBoundaries(true) -- Args(<boolean> ConstrainToScreen)
 
 local tab = window:Tab("Tab") -- Args(<string> Name, <string?> TabImage)
+-- local tab = window:Tab("Tab", "rbxassetid://78971198932745")
 
 local section = tab:Section("Section") -- Args(<string> Name)
 
