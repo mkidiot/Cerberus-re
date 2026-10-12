@@ -6,5 +6,5 @@ Fixed by **[mkidiot](https://v3rm.net/members/mkidiot.119250/)**
 
 ### Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mkidiot/Cerberus-re/main/Source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mkidiot/Cerberus-re/heads/main/Source.lua"))()
 ```
