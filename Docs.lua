@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://github.com/mkidiot/Cerberus-re/blob/main/Docs.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/mkidiot/Cerberus-re/heads/main/Source.lua"))()
 
 local window = Library.new("Window") -- Args(<string> Name, <boolean?> ConstrainToScreen, <number?> Width, <number?> Height, <string?> VisibilityToggleKey)
 
