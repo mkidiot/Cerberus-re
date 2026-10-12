@@ -8,3 +8,7 @@ Fixed by **[mkidiot](https://v3rm.net/members/mkidiot.119250/)**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mkidiot/Cerberus-re/heads/main/Source.lua"))()
 ```
+
+## Preview
+![a](https://files.catbox.moe/da2ko5.png)
+![a](https://files.catbox.moe/kr1sig.png)
